@@ -4,7 +4,7 @@
 <br><br>
 ## Installation
 HA 설치 경로 아래 www 폴더에 파일을 넣어줍니다.
-  '<config directory>/www/lotto645-card.js'
+  `<config directory>/www/lotto645-card.js`
 <br><br>
 ## Usage
 ### configuration
