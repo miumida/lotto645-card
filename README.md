@@ -1,5 +1,5 @@
 # Lotto 6/45 Card
-홈어시스턴트 lovelace 커스텀 UI 입니다.<br>
+Home Assistant lovelace 커스텀 UI 입니다.<br>
 아래의 lotto645 커스텀 컴포넌트 센서를 이용합니다.
 <br><br>
 ## Installation
