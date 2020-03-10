@@ -1,3 +1,5 @@
 {
   "name" : "[KR] Lotto 6/45 Card",
+  "render_readme": true,
+  "filename": "lotto645-card.js"
 }
