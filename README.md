@@ -15,12 +15,13 @@ Home Assistant lovelace 커스텀 UI 입니다.<br>
 ### HACS
 - HACS > SETTINGS 메뉴 선택
 - ADD CUSTOM REPOSITORY에 "<https://github.com/miumida/lotto645-card>" 입력,
-Category에 Plugin 선택 후 저장
+Category에 Lovelace 선택 후 저장
 - HACS > PLUGINS 메뉴에서 [KR] Lotto 6/45 Card 검색하여 설치
 <br><br>
 ## Usage
 ### configuration
 - lovelace UI 설정 최상단 아래 내용을 추가<br>
+- HACS로 설치시에는 별도록 추가할 필요없음<br>
 ```yaml
 resources:
   - url: /local/lotto645-card.js?v=0.1
